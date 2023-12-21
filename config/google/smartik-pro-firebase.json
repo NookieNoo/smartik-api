@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartik-pro",
+  "private_key_id": "a909d854be75e259e9d29e1ebf42c6f628d99a62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCcElA7cBCBB98k\nRjUz/hphS3hdgSTi+yyFDf/0hNO4NM0Xc5eIvIh22eczz+8S3SvBkmRsTME1BMdL\nSA4Ycc0Oabpmb9wYdlwSOnwuFFmxg+HO+brQhS+HoADvIFLAEVddPrrHo+zHZiKi\n+pbeW+gm1uMwwHLTrjr0fa8oIlqPkIfh1DStsDABYZQupf9QSRtm9lEgLwl1kWBT\nsIh78xWB5zbdk8khAC5Hf3OVxFw3010q7SCZRIT1tTj8daP/Z9NPt09AA/OfW8sW\ni5QrjgmLPQTdiumV+rRwcIFIuTjZp7mSUZxPIswm4RQrDfN8FsqZEDN80pvWZCza\nMQ+ZW0DdAgMBAAECggEABBW+n9pOXvIzzEvszJA+udkzLKSwBc4z22+ttAVd/UOf\nMplF7Wrx2hqDS1SKmgshQA8dgxrR28S6P/rXfkWhllpSFKhM3HRh8zWGATbAej2i\nGrwSla6cEIgG6OYHBHFFFh20NHwn5bgt+Ty8gilpqXU/u7ZDIHiToR6WXQ3jzOod\nsismB8eWnbheaUEnXv/gLfEOYKzMGwO6LqhX4hR2YfePOX3qWdPl8FedMWHA2Lnw\nvB17jK4k/4pvkp34u1YUESpu7MBo3V7xm8Q9dCwZ4Kg2JNYEvVDdHy2M+knmv1AC\nmtWxVvuT4C2ETIdXcSpVd0yxf1WZ2I8miXRxbc1iwQKBgQDV8Io8GYcLKZL+zyr8\npixBpGu6HO/J4cQWAKMrbNHK7QWTIZ4VZlqVO18GlvAZl+DuU16uxV9VN+BViOzd\nSYbWWpxemtz8pKKFnqFyTNuTXtFScwxeXvPaNlUO51bdjK2C+QNfAtUKtizNlm0v\nr5X76006EqbEpfvJz26d0vr79QKBgQC6wU5Rr+CNnVsmZJ6iuorQu7DZBJBrSJvc\nn68pKL+EuM7BuWbZ37ii3IkQaopNMvt3ycsvvSgYTsfJuVkdrDTaDE/1C4g6eDcV\n50WVuEJS1teHehc7a4ULxObKdQ1uuFGU/iYd9LX/XMviYfB26cm+BLI9XZILZmJa\nZSdMuerISQKBgQClQROWTuWocqmwF9iNpdJjthzce0Oh/rlXgZCIl5sKE8INn5cb\n0p8/zMefMHIwYsgFb/KgL6dvDSVFDOpiGEyGQSGuVhNDN+yuKBVvU/z8Pe6UsHeq\nYdAdC4DybTIFGohgtfarqmVjy8qZ14tpnUjOejiCFiwplEkE3y0Dzhe/DQKBgQCE\n2hC54ZCvjToTZM7I2kT32h0jNLD78MoXt2zmrbsYUlOa0iZNZW42RQYoLHI4GsVy\n4JVvX3OPXzOW2AiCKEfsuYeDvXFqjqw5I62HpW1g+r6V/I9cUM9zoN3BNmWY1vwK\nLoW1F6kEgOH1KFDkdslyKGsXZmIHRA1BWuYLGdLgKQKBgQC5RDZ1oynE41paGfAc\nVwxYnfvS2UohyPDfoNod0lHzS17Vnp3ErZO9lVQ+7IrkEp182GWBPTyrBN1GYL56\nWWfD075D4vobzJs+hcRGkUdybq6CTPDC1eEnbs9wLoHYb1AdJKhnkp9i1JPeJagk\nQFlr2FBf6FFASnGUAvZEmD/NFg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3uki6@smartik-pro.iam.gserviceaccount.com",
+  "client_id": "101380002535772352124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3uki6%40smartik-pro.iam.gserviceaccount.com"
+}
